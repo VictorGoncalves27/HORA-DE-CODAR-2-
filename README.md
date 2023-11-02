@@ -26,4 +26,5 @@ Escreva um programa para ler 2 valores inteiros informados pelo usuário e uma d
 O programa deve calcular e escrever o resultado dessa operação sobre os dois valores lidos. <br/>
 
 
-![image](https://github.com/VictorGoncalves27/HORA-DE-CODAR-2-/assets/142261805/fdad06ac-4baf-498c-b1b7-17b88464fc4e)
+![Captura de tela 2023-11-02 112337](https://github.com/VictorGoncalves27/HORA-DE-CODAR-2-/assets/142261805/53e2fdfb-d646-4fcd-b6b0-95f3f26d42f8)
+
